@@ -17,6 +17,6 @@ chmod +x setup_vpn.sh
 
 
 ```bash
-wget -O setup_vpn.sh [https://raw.githubusercontent.com/v12345vtm/raspi-vpn-server/main/setup_vpn.sh](https://raw.githubusercontent.com/v12345vtm/raspi-vpn-server/main/setup_vpn.sh)
+wget -O setup_vpn.sh https://raw.githubusercontent.com/v12345vtm/raspi-vpn-server/main/setup_vpn.shsetup_vpn.sh)
 chmod +x setup_vpn.sh
 ./setup_vpn.sh
